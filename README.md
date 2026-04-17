@@ -6,7 +6,7 @@ Starting Edge after adding this registry key *may* delete your profile because o
 I'd appreciate feedback on this.
 
 # Installation
-Download edge-debloat.reg from `main` branch and install it with admin privilegies.
+Download edge-debloat.reg from `master` branch and install it with admin privilegies.
 Run Edge, go to `edge://policy/` page and press `Reload Policies` button.
 You have to `Reload Policies` after every update.
 
